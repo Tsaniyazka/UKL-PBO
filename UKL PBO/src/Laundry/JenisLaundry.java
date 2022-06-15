@@ -59,4 +59,3 @@ public class JenisLaundry {
  }
 }
 
-//enkapsulasi = menyembunyikan informasi dari suatu class
