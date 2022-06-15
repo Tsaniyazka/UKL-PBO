@@ -68,5 +68,3 @@ public class Laporan {
  }
 }
 
-//overloading = menggunakan method sama tetapi memiliki fungsi yang berbeda
-//inheritence = pewarisan`  
