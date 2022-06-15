@@ -73,5 +73,3 @@ public class Client implements User{
  } 
 }
 
-
-//this untuk merujuk pada class itu sendiri
