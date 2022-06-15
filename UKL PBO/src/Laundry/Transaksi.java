@@ -78,4 +78,3 @@ public class Transaksi {
 
 
 
-//private = hanya bisa diakses oleh kelas itu sendiri
